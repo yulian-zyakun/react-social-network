@@ -1,0 +1,8 @@
+.selectedPage {
+  font-weight: bold;
+  border: 2px solid;
+}
+
+.pageNumber {
+  border: 1px solid grey;
+}
